@@ -5,7 +5,7 @@ public class Assignment2 {
             areaOfCircle(3.14f,5);
             printFullName("Sukhvinder","Kaur");
             sumOfThree(3,5,2);
-
+            System.out.println("git updated");
         }
         public static void square(int a)
         {
