@@ -6,6 +6,8 @@ public class Assignment2 {
             printFullName("Sukhvinder","Kaur");
             sumOfThree(3,5,2);
             System.out.println("git updated repeat");
+            System.out.println("git updated repeat");
+
         }
         public static void square(int a)
         {
